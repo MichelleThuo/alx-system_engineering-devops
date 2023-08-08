@@ -1,1 +1,1 @@
-0x16. API advance
+0x16. API advanced
